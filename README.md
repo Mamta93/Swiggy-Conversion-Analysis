@@ -31,8 +31,5 @@ Analyzed Swiggy traffic and conversion data using Tableau to understand user beh
 
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/mamta.sharma6110/viz/swiggy-traffic-analysis/Story1?publish=yes)
 
-## Key Findings
-Add your actual findings and business insights here.
-
 ## Conclusion
 This project demonstrates practical skills in Tableau dashboard development, data visualization, and business analysis.
